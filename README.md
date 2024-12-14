@@ -20,8 +20,12 @@ Visual components and Python
 
 
 ## Program
+![Screenshot 2024-12-14 222450](https://github.com/user-attachments/assets/4ecefe96-cc27-4af4-b506-61debaaba3e9)
+![Screenshot 2024-12-14 222528](https://github.com/user-attachments/assets/443ba646-e3fb-4e32-a0c0-f298987a8542)
 
 
 ## Output
+![Screenshot 2024-12-14 222534](https://github.com/user-attachments/assets/1cea9880-8587-480d-8863-920c8dee243c)
 
 ## Result
+Thus the Expriment executed Successfully
